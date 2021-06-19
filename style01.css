@@ -1,0 +1,60 @@
+	*{
+		margin:0;
+		padding:0;
+	}
+	body {
+		font-size:20px;
+		font-family:Georgia, Tahoma, Times, Serif;
+		background:#cce7ff;
+	}
+		h1,h2,h3 {
+		font-family:Helvetica, Arial, sans-serif;
+	}
+	
+	#container {
+		max-width:700px;
+		margin:0 auto;
+	}
+	
+	header {
+		text-align:center;
+		background:#fff;
+		color:#083067;
+		padding:10px;
+	}
+	
+	article {
+	background:#fff;
+	padding:20px;
+	margin:20px 0;
+	}
+	
+	article p {
+		margin:0 0 1em;
+	}
+	
+	section.post-head small{
+		display:block;
+		margin:0 0 20px;
+		padding:0 0 20px;
+		border-bottom:solid 1px #eee;
+		color:#00c6a0;
+	}
+	
+	section.post-footer {
+		font-size:14px;
+		margin:20px 0 0;
+		padding:20px 0 0;
+		border-top:solid 1px #eee;
+		
+	}
+	
+	footer{
+		
+		text-align:center;
+		color:#4b4c4d;
+		font-size:20px;
+		background:#fff;
+		padding:10px;
+		
+	}
